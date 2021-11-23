@@ -25,7 +25,7 @@ class cli extends Frame implements ActionListener
 	private String str2;			// for storing message from keyboard.
 
 	private Frame MainFrame;		// GUI Frame object
-	private Label header;			// Label for header(Server)
+	private Label header;			// Label for header(Client)
 	private Label Received;			// Label for TextArea STR1
 	private Label Send;				// Label for TextArea STR2
 	private TextArea STR1;			// TextArea
